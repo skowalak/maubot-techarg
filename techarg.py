@@ -1,6 +1,6 @@
-from maubot import Plugin, MessageEvent
+from maubot import Plugin
 from maubot.handlers import event, command
-from mautrix.types 
+from mautrix.types import MessageEvent
 from .excuses import strings_arg, strings_noarg
 
 import random
