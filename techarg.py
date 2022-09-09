@@ -21,4 +21,3 @@ class TechargBot(Plugin):
             excuse = random.choice(strings_noarg)
 
         await event.respond(excuse)
-    
