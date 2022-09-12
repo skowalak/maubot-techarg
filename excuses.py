@@ -72,5 +72,5 @@ strings_noarg = [
     "Well, that's great if you have an AI running the thing.",
     "Well, they're going to do that with the next version of Perl, so we should probably wait.",
     "Well, they're going to do that with the next version of OS X, so we should probably wait.",
-    "I heard that the only real application for that technology was child pornography. How did you hear about it?"
+    "I heard that the only real application for that technology was child pornography. How did you hear about it?",
 ]
